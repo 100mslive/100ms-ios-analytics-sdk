@@ -1,0 +1,1 @@
+This SDK is an internal dependency to 100ms iOS SDK. This should not be used standalone.
